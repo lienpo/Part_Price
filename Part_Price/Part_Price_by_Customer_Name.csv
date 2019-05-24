@@ -1,0 +1,1395 @@
+customerno,company,part_number
+WOM001              ,"Woodward, Inc.",A3000               
+WOM001              ,"Woodward, Inc.",A3000-TOOL          
+JPC001              ,Jarvis Products Corporation,A3001               
+WOM001              ,"Woodward, Inc.",A3002               
+WOM001              ,"Woodward, Inc.",A3003               
+WOM001              ,"Woodward, Inc.",A3004               
+KAA001              ,Kahr Arms,A3006               
+ATS001              ,"Ametek Thermal Systems, Inc.",A3007               
+ATS001              ,"Ametek Thermal Systems, Inc.",A3008               
+ATS001              ,"Ametek Thermal Systems, Inc.",A3009               
+ATS001              ,"Ametek Thermal Systems, Inc.",A3010               
+VTU001              ,"Vision Tech Usa, Inc.",A3011               
+VTU001              ,"Vision Tech Usa, Inc.",A3012               
+VTU001              ,"Vision Tech Usa, Inc.",A3013               
+VTU001              ,"Vision Tech Usa, Inc.",A3014               
+VTU001              ,"Vision Tech Usa, Inc.",A3015               
+VTU001              ,"Vision Tech Usa, Inc.",A3016               
+WOM001              ,"Woodward, Inc.",A3017               
+WOM001              ,"Woodward, Inc.",A3018               
+ATS001              ,"Ametek Thermal Systems, Inc.",A3021               
+ATS001              ,"Ametek Thermal Systems, Inc.",A3022               
+CRT002              ,C.R.P. Technology,A3025               
+IRT001              ,Interpro Rapid Technoloties,A3026               
+IRT001              ,Interpro Rapid Technoloties,A3027               
+SPI001              ,"Senco Products, Inc.",A3028               
+CAM001              ,"Cmp, Advanced Mech. Solutions",A3034               
+JPC001              ,Jarvis Products Corporation,A3035               
+JPC001              ,Jarvis Products Corporation,A3036               
+JPC001              ,Jarvis Products Corporation,A3037               
+JPC001              ,Jarvis Products Corporation,A3038               
+HAC001              ,Haemonetics Corporation,A3039               
+SPI001              ,"Senco Products, Inc.",A3040               
+JPC001              ,Jarvis Products Corporation,A3041               
+JPC001              ,Jarvis Products Corporation,A3042               
+JPC001              ,Jarvis Products Corporation,A3042T              
+OTT001              ,Otto,A3043               
+ATU001              ,"Audio Technica, USA",A3044               
+ATU001              ,"Audio Technica, USA",A3045               
+BFM001              ,Barrett Firearms Mfg. Co.,A3046               
+AMA001              ,Arlington Machine And Tool,A3047               
+UNI002              ,Universal Instruments,A3048               
+JPC001              ,Jarvis Products Corporation,A3049               
+LEG001              ,Leica Geosystems,A3050               
+LEG001              ,Leica Geosystems,A3050T              
+ATS001              ,"Ametek Thermal Systems, Inc.",A3051               
+ATS001              ,"Ametek Thermal Systems, Inc.",A3052               
+ATS001              ,"Ametek Thermal Systems, Inc.",A3053               
+DMI001              ,"Donal Machine, Inc.",A3054               
+DMI001              ,"Donal Machine, Inc.",A3054T              
+DMI001              ,"Donal Machine, Inc.",A3055               
+DMI001              ,"Donal Machine, Inc.",A3056               
+DMI001              ,"Donal Machine, Inc.",A3057               
+TFI001              ,Tru Form Industries,A3060               
+CMS001              ,Cobham Mission Systems Div.,A3061               
+ATS001              ,"Ametek Thermal Systems, Inc.",A3062               
+WOM001              ,"Woodward, Inc.",A3063               
+WOM001              ,"Woodward, Inc.",A3064               
+WOM001              ,"Woodward, Inc.",A3065               
+WOM001              ,"Woodward, Inc.",A3066               
+WOM001              ,"Woodward, Inc.",A3067               
+WOM001              ,"Woodward, Inc.",A3068               
+WOM001              ,"Woodward, Inc.",A3069               
+WOM001              ,"Woodward, Inc.",A3070               
+WOM001              ,"Woodward, Inc.",A3071               
+TAD001              ,Tobyhanna Army Depot,A3072               
+ICG001              ,"Island Components Group, Inc.",A3073               
+KNA002              ,"G.S. Precision, Inc.",A3075               
+TPI001              ,"Triangle Precision Ind., Inc.",A3077               
+ATS001              ,"Ametek Thermal Systems, Inc.",A3078               
+ATS001              ,"Ametek Thermal Systems, Inc.",A3079               
+ATS001              ,"Ametek Thermal Systems, Inc.",A3080               
+ATS001              ,"Ametek Thermal Systems, Inc.",A3081               
+ATS001              ,"Ametek Thermal Systems, Inc.",A3082               
+WOM001              ,"Woodward, Inc.",A3083               
+FMC001              ,"Frontier Machine Co., Inc.",A3084               
+FMC001              ,"Frontier Machine Co., Inc.",A3085               
+KMI001              ,"Kolar Machine, Inc.",A3086               
+THP001              ,Thiokol Propulsion,A3087               
+THP001              ,Thiokol Propulsion,A3088               
+WOM001              ,"Woodward, Inc.",A3089               
+WOM001              ,"Woodward, Inc.",A3090               
+SPI001              ,"Senco Products, Inc.",A3092               
+OTT001              ,Otto,A3093               
+OTT001              ,Otto,A3094               
+OTT001              ,Otto,A3095               
+ATS001              ,"Ametek Thermal Systems, Inc.",A3096               
+OTT001              ,Otto,A3097               
+KAA001              ,Kahr Arms,A3098               
+ATS001              ,"Ametek Thermal Systems, Inc.",A3099               
+ACC002              ,Accudyne Corporation,A3100               
+ACE001              ,Advanced Composite Engineering,A3101               
+ACE001              ,Advanced Composite Engineering,A3101T              
+TEI002              ,Teleflex Inc.,A3102               
+OTT001              ,Otto,A3104               
+CRT001              ,Jade Manufacturing,A3106               
+EKC001              ,Eastman Kodak Company,A3107               
+WMI001              ,"Will-mor Manufacturing, Inc.",A3108               
+OFC001              ,Ossur (formerly Century Xxii),A3109               
+ATS001              ,"Ametek Thermal Systems, Inc.",A3111               
+ATS001              ,"Ametek Thermal Systems, Inc.",A3112               
+ATS001              ,"Ametek Thermal Systems, Inc.",A3113               
+ATS001              ,"Ametek Thermal Systems, Inc.",A3114               
+ATS001              ,"Ametek Thermal Systems, Inc.",A3115               
+ATS001              ,"Ametek Thermal Systems, Inc.",A3116               
+ATS001              ,"Ametek Thermal Systems, Inc.",A3117               
+ATS001              ,"Ametek Thermal Systems, Inc.",A3118               
+ATS001              ,"Ametek Thermal Systems, Inc.",A3119               
+AMA001              ,Arlington Machine And Tool,A3120               
+MIM001              ,Micro Machining,A3121               
+MIM001              ,Micro Machining,A3122               
+ESL001              ,Elbit Systems Ltd.,A3125               
+EKC001              ,Eastman Kodak Company,A3126               
+SEI002              ,Semikron Incorporated,A3127               
+SEI002              ,Semikron Incorporated,A3128               
+WOM001              ,"Woodward, Inc.",A3138               
+LOI001              ,Lowell Inc.,A3139               
+MOI001              ,"Mor-tech, Inc.",A3140               
+WOM001              ,"Woodward, Inc.",A3141               
+WOM001              ,"Woodward, Inc.",A3142               
+WOM001              ,"Woodward, Inc.",A3143               
+EEO001              ,Elop Electro Optics,A3149               
+EEO001              ,Elop Electro Optics,A3150               
+JPC001              ,Jarvis Products Corporation,A3154               
+JPC001              ,Jarvis Products Corporation,A3155               
+ACL001              ,Astronautics C.A. Ltd.,A3158               
+ACL001              ,Astronautics C.A. Ltd.,A3159               
+ESL001              ,Elbit Systems Ltd.,A3160               
+ESL001              ,Elbit Systems Ltd.,A3161               
+EEO001              ,Elop Electro Optics,A3162               
+EEO001              ,Elop Electro Optics,A3163               
+ESL001              ,Elbit Systems Ltd.,A3167               
+ESL001              ,Elbit Systems Ltd.,A3168               
+ESL001              ,Elbit Systems Ltd.,A3169               
+ESL001              ,Elbit Systems Ltd.,A3170               
+ESL001              ,Elbit Systems Ltd.,A3171               
+ESL001              ,Elbit Systems Ltd.,A3172               
+GOI001              ,"Gov't Of Israel, M.O.D.",A3173               
+EES001              ,Efw (elbit Systems Of America,A3174               
+EES001              ,Efw (elbit Systems Of America,A3174M              
+ESL001              ,Elbit Systems Ltd.,A3175               
+ATS001              ,"Ametek Thermal Systems, Inc.",A3177               
+ALM003              ,Alexander Machine & Tool Co.,A3179               
+ESL001              ,Elbit Systems Ltd.,A3182               
+ESL001              ,Elbit Systems Ltd.,A3187               
+ELM001              ,Elmec,A3188               
+ELM001              ,Elmec,A3189               
+ESL001              ,Elbit Systems Ltd.,A3190               
+ELM001              ,Elmec,A3191               
+ELM001              ,Elmec,A3192               
+ELM001              ,Elmec,A3200               
+ELM001              ,Elmec,A3201               
+ELM001              ,Elmec,A3202               
+AMA001              ,Arlington Machine And Tool,A3203               
+LAE001              ,Lake Engineering,A3204               
+LAE001              ,Lake Engineering,A3205               
+NOI001              ,"Mb Aerospace, Sterling Heights",A3211               
+GOI001              ,"Gov't Of Israel, M.O.D.",A3221               
+ELM001              ,Elmec,A3222               
+TAB001              ,Tampa Brass & Aluminum,A3233               
+ESL001              ,Elbit Systems Ltd.,A3237               
+TSC002              ,The Sherman Corporation,A3245               
+NIE001              ,Nisan Engineering & Supply Inc,A3247               
+ATS001              ,"Ametek Thermal Systems, Inc.",A3248               
+ATS001              ,"Ametek Thermal Systems, Inc.",A3248A              
+ATS001              ,"Ametek Thermal Systems, Inc.",A3249               
+ATS001              ,"Ametek Thermal Systems, Inc.",A3250               
+ESL001              ,Elbit Systems Ltd.,A3251               
+ELM001              ,Elmec,A3253               
+ATS001              ,"Ametek Thermal Systems, Inc.",A3255               
+ESL001              ,Elbit Systems Ltd.,A3257               
+HAS001              ,Hamilton Sundstrand,A3265               
+HAS001              ,Hamilton Sundstrand,A3266               
+ESL001              ,Elbit Systems Ltd.,A3270               
+ESL001              ,Elbit Systems Ltd.,A3271               
+ESL001              ,Elbit Systems Ltd.,A3272               
+PMC001              ,Paramount Machine Company,A3282               
+ELM001              ,Elmec,A3283               
+HAS001              ,Hamilton Sundstrand,A3289               
+HAS001              ,Hamilton Sundstrand,A3290               
+CMS001              ,Cobham Mission Systems Div.,A3294               
+ELM001              ,Elmec,A3298               
+ELM001              ,Elmec,A3312               
+HAS001              ,Hamilton Sundstrand,A3317               
+MGI001              ,Mgi/metalagraphics,A3323               
+NEI001              ,"Nolet Enterprises, Inc.",A3328-FPI           
+MMW001              ,"Morsch Machine Works, Inc.",A3344               
+AAI001              ,"Applied Aerodynamics, Inc",A3356               
+OTT001              ,Otto,A3361               
+CAP001              ,Calm Aluminum Pty. Ltd.,A3362               
+ACI001              ,"Accudynamics, LLC",A3366               
+ACI001              ,"Accudynamics, LLC",A3367               
+ACI001              ,"Accudynamics, LLC",A3368               
+ACI001              ,"Accudynamics, LLC",A3369               
+ACI001              ,"Accudynamics, LLC",A3370               
+ACI001              ,"Accudynamics, LLC",A3371               
+ACI001              ,"Accudynamics, LLC",A3372               
+KNA002              ,"G.S. Precision, Inc.",A3373               
+KET001              ,Kennebec Technologies,A3374               
+ACI001              ,"Accudynamics, LLC",A3375               
+ACI001              ,"Accudynamics, LLC",A3376               
+ACI001              ,"Accudynamics, LLC",A3377               
+ACI001              ,"Accudynamics, LLC",A3378               
+TAB001              ,Tampa Brass & Aluminum,A3379               
+CMS001              ,Cobham Mission Systems Div.,A3380               
+ELM001              ,Elmec,A3381               
+GOI001              ,"Gov't Of Israel, M.O.D.",A3382               
+ESL001              ,Elbit Systems Ltd.,A3384               
+EES001              ,Efw (elbit Systems Of America,A3384M              
+TAB001              ,Tampa Brass & Aluminum,A3388               
+ATS001              ,"Ametek Thermal Systems, Inc.",A3402               
+COX001              ,"Cox & Company, Inc.",A3403               
+OTT001              ,Otto,A3408               
+OTT001              ,Otto,A3409               
+OTT001              ,Otto,A3410               
+OTT001              ,Otto,A3411               
+H002                ,H & S Swansons' Tool Company,A3413               
+H002                ,H & S Swansons' Tool Company,A3414               
+ASA001              ,Aselsan A.S.,A3416               
+EES001              ,Efw (elbit Systems Of America,A3419               
+ALM003              ,Alexander Machine & Tool Co.,A3420               
+MMW001              ,"Morsch Machine Works, Inc.",A3439               
+UNI002              ,Universal Instruments,A3440               
+KET001              ,Kennebec Technologies,A3444               
+TKI001              ,"Turbine Kinetics, Inc.",A3459               
+FTG001              ,"Federal Technology Group, Inc.",A3465               
+ATS001              ,"Ametek Thermal Systems, Inc.",A3466               
+ATS001              ,"Ametek Thermal Systems, Inc.",A3467               
+C1L001              ,Cabiran (1991) Ltd,A3472               
+C1L001              ,Cabiran (1991) Ltd,A3473               
+TSC002              ,The Sherman Corporation,A3481               
+TFS001              ,Textron Finance Shared Svc Ctr,A3498               
+C1L001              ,Cabiran (1991) Ltd,A3499               
+MMW001              ,"Morsch Machine Works, Inc.",A3503               
+C1L001              ,Cabiran (1991) Ltd,A3507               
+PIS001              ,Primus Intl-university Swaging,A3516               
+TEI004              ,Technimeca International,A3517               
+COX001              ,"Cox & Company, Inc.",A3523               
+WOM001              ,"Woodward, Inc.",A3530               
+WOM001              ,"Woodward, Inc.",A3531               
+COX001              ,"Cox & Company, Inc.",A3535               
+CMS001              ,Cobham Mission Systems Div.,A3540               
+YIC001              ,York International Corporation,A3547               
+TPE001              ,Turbotech Precision Eng,A3551               
+ATS001              ,"Ametek Thermal Systems, Inc.",A3553               
+ATS001              ,"Ametek Thermal Systems, Inc.",A3554               
+BEH001              ,Bell Helicopter,A3556               
+TFS001              ,Textron Finance Shared Svc Ctr,A3566               
+H002                ,H & S Swansons' Tool Company,A3568               
+YIC001              ,York International Corporation,A3572               
+TFS001              ,Textron Finance Shared Svc Ctr,A3573               
+ATS001              ,"Ametek Thermal Systems, Inc.",A3577               
+ATS001              ,"Ametek Thermal Systems, Inc.",A3578               
+ALM003              ,Alexander Machine & Tool Co.,A3579               
+ALM003              ,Alexander Machine & Tool Co.,A3580               
+CSS001              ,Corning Shared Services,A3584               
+CSS001              ,Corning Shared Services,A3585               
+TAI002              ,"Tps Aviation, Inc.",A3592               
+TAI002              ,"Tps Aviation, Inc.",A3593               
+TFS001              ,Textron Finance Shared Svc Ctr,A3603               
+OTT001              ,Otto,A3604               
+MAM003              ,Mackay Manufacturing,A3606               
+KEG001              ,Kearfott Guidance & Navigation,A3610               
+TFS001              ,Textron Finance Shared Svc Ctr,A3619               
+ASA001              ,Aselsan A.S.,A3633               
+ASA001              ,Aselsan A.S.,A3634               
+ASA001              ,Aselsan A.S.,A3635               
+ASA001              ,Aselsan A.S.,A3636               
+ASA001              ,Aselsan A.S.,A3637               
+ASA001              ,Aselsan A.S.,A3638               
+ASA001              ,Aselsan A.S.,A3639               
+ASA001              ,Aselsan A.S.,A3640               
+ASA001              ,Aselsan A.S.,A3641               
+OTT001              ,Otto,A3642               
+FTI001              ,"Foresight Technologies, Inc.",A3661               
+HTI001              ,Hoppe Tool Inc.,A3663               
+CMS001              ,Cobham Mission Systems Div.,A3677               
+FAC001              ,Fab-braze Corporation,BARS                
+VTU001              ,"Vision Tech Usa, Inc.",BIKE                
+VTU001              ,"Vision Tech Usa, Inc.",BIKE1               
+VTU001              ,"Vision Tech Usa, Inc.",BIKE2               
+VTU001              ,"Vision Tech Usa, Inc.",BIKE3               
+VTU001              ,"Vision Tech Usa, Inc.",BIKE4               
+VTU001              ,"Vision Tech Usa, Inc.",BIKE5               
+VTU001              ,"Vision Tech Usa, Inc.",BIKE6               
+UNI002              ,Universal Instruments,BOOK                
+UNI002              ,Universal Instruments,BOOKS               
+CAL001              ,Caspian Arms Ltd.,BP1                 
+SII002              ,Sonju Industrial Inc.,CANCEL. FEE         
+WOM001              ,"Woodward, Inc.",CAROL               
+WW001               ,"W. Waller & Son, Inc.",DFRM                
+DMI001              ,"Donal Machine, Inc.",DONAL TOOLING       
+MSC001              ,Meiko Scientific Corporation,D007                
+MSC001              ,Meiko Scientific Corporation,D009                
+MSC001              ,Meiko Scientific Corporation,D011                
+MSC001              ,Meiko Scientific Corporation,D013                
+MSC001              ,Meiko Scientific Corporation,D015                
+MSC001              ,Meiko Scientific Corporation,D029                
+JPC001              ,Jarvis Products Corporation,E280                
+FAC001              ,Fab-braze Corporation,FAB-BRAZE           
+JPC001              ,Jarvis Products Corporation,FFF5                
+HMS001              ,Harvard Medical School,FRAME               
+EKC001              ,Eastman Kodak Company,F1130               
+EKC001              ,Eastman Kodak Company,F1131               
+FTG001              ,"Federal Technology Group, Inc.",F357                
+NIM001              ,Nim-cor,F535                
+NIM001              ,Nim-cor,F536                
+FTG001              ,"Federal Technology Group, Inc.",F537                
+NIM001              ,Nim-cor,F612                
+ACC001              ,Acushnet Company,GOLF-PROTOTYPE      
+ADO001              ,Agfa Div. Of Bayer Corp.,GOLF1               
+CAL001              ,Caspian Arms Ltd.,GRIP                
+ICG001              ,"Island Components Group, Inc.",G127                
+ICG001              ,"Island Components Group, Inc.",G128                
+QCC001              ,Quality Castings Co. Of N.H.,H.T.                
+HYS001              ,Hypobaric Systems,HAND                
+CPM001              ,Costa Precision Mfg. Corp.,HEAT TREAT          
+FTG001              ,"Federal Technology Group, Inc.",HEATTREATPANELS     
+TAB001              ,Tampa Brass & Aluminum,H001                
+WW001               ,"W. Waller & Son, Inc.",JFRM                
+DPM001              ,Defense Procurement Mfg. Svcs.,J15B                
+DPM001              ,Defense Procurement Mfg. Svcs.,J15M                
+DPM001              ,Defense Procurement Mfg. Svcs.,J15S                
+PTC001              ,Pine Tree Castings,KOU9                
+PTC001              ,Pine Tree Castings,KXRN3               
+COI001              ,"Compositech, Inc./zipp",LUG                 
+BFM001              ,Barrett Firearms Mfg. Co.,LWR                 
+MSC002              ,Manufacturing Sciences Corp.,MISC                
+BRI001              ,"Brazonics, Inc.",MISC3               
+CAG001              ,Callaway Golf,MMC SAMPLES         
+MII002              ,Milliken Intertechnologies,M200                
+EAC001              ,Essential Arms Company,N10B                
+EAC001              ,Essential Arms Company,N10C                
+PTC001              ,Pine Tree Castings,OU20                
+VTU001              ,"Vision Tech Usa, Inc.",PART1               
+COI001              ,"Compositech, Inc./zipp",PEDL                
+ALM001              ,"Alloy Machine & Tool Co., Inc.",PENETRANT           
+FCI001              ,Fisher Controls Int'l LLC,PENETRANT TEST      
+LUI001              ,Lubricants International,PROTOTYPE           
+WAI001              ,"Waveline, Inc.",P778                
+WAI001              ,"Waveline, Inc.",P812                
+PTC001              ,Pine Tree Castings,Q026                
+TSC001              ,"Tarnhelm Supply Co., Inc.",Q122                
+SEI001              ,"Santin Engineering, Inc.",SAM1                
+SEI001              ,"Santin Engineering, Inc.",SAM3                
+ATS001              ,"Ametek Thermal Systems, Inc.",SA3008              
+ATS001              ,"Ametek Thermal Systems, Inc.",SA3009              
+JPC001              ,Jarvis Products Corporation,SA3041              
+BFM001              ,Barrett Firearms Mfg. Co.,SA3046              
+UNI002              ,Universal Instruments,SA3047              
+OTT001              ,Otto,SA3104              
+OFC001              ,Ossur (formerly Century Xxii),SA3109              
+MIM001              ,Micro Machining,SA3122              
+SEI002              ,Semikron Incorporated,SA3127              
+SEI002              ,Semikron Incorporated,SA3128              
+JAR001              ,"J.A. Reinhardt & Co., Inc.",SA3136              
+JAR001              ,"J.A. Reinhardt & Co., Inc.",SA3137              
+WOM001              ,"Woodward, Inc.",SA3138              
+MOI001              ,"Mor-tech, Inc.",SA3140              
+WOM001              ,"Woodward, Inc.",SA3141              
+WOM001              ,"Woodward, Inc.",SA3142              
+WOM001              ,"Woodward, Inc.",SA3143              
+EEO001              ,Elop Electro Optics,SA3149              
+EEO001              ,Elop Electro Optics,SA3150              
+JPC001              ,Jarvis Products Corporation,SA3154              
+JPC001              ,Jarvis Products Corporation,SA3155              
+ATS001              ,"Ametek Thermal Systems, Inc.",SA3156              
+ATS001              ,"Ametek Thermal Systems, Inc.",SA3157              
+ACL001              ,Astronautics C.A. Ltd.,SA3158              
+ACL001              ,Astronautics C.A. Ltd.,SA3159              
+ESL001              ,Elbit Systems Ltd.,SA3160              
+ESL001              ,Elbit Systems Ltd.,SA3161              
+EEO001              ,Elop Electro Optics,SA3162              
+EEO001              ,Elop Electro Optics,SA3163              
+HDO001              ,Houlton Div. Of Smith & Wesson,SA3164              
+ESL001              ,Elbit Systems Ltd.,SA3167              
+ESL001              ,Elbit Systems Ltd.,SA3168              
+ESL001              ,Elbit Systems Ltd.,SA3169              
+ESL001              ,Elbit Systems Ltd.,SA3170              
+ESL001              ,Elbit Systems Ltd.,SA3171              
+ESL001              ,Elbit Systems Ltd.,SA3172              
+GOI001              ,"Gov't Of Israel, M.O.D.",SA3173              
+EES001              ,Efw (elbit Systems Of America,SA3174              
+ESL001              ,Elbit Systems Ltd.,SA3175              
+ATS001              ,"Ametek Thermal Systems, Inc.",SA3177              
+PTC001              ,Pine Tree Castings,SA3178              
+H002                ,H & S Swansons' Tool Company,SA3179              
+ESL001              ,Elbit Systems Ltd.,SA3182              
+EES001              ,Efw (elbit Systems Of America,SA3187              
+ESL001              ,Elbit Systems Ltd.,SA3188              
+ESL001              ,Elbit Systems Ltd.,SA3189              
+ESL001              ,Elbit Systems Ltd.,SA3190              
+GOI001              ,"Gov't Of Israel, M.O.D.",SA3191              
+ESL001              ,Elbit Systems Ltd.,SA3192              
+GOI001              ,"Gov't Of Israel, M.O.D.",SA3200              
+GOI001              ,"Gov't Of Israel, M.O.D.",SA3201              
+GOI001              ,"Gov't Of Israel, M.O.D.",SA3202              
+UNI002              ,Universal Instruments,SA3203              
+NOI001              ,"Mb Aerospace, Sterling Heights",SA3211              
+GOI001              ,"Gov't Of Israel, M.O.D.",SA3221              
+GOI001              ,"Gov't Of Israel, M.O.D.",SA3222              
+TAB001              ,Tampa Brass & Aluminum,SA3233              
+ESL001              ,Elbit Systems Ltd.,SA3237              
+KIL001              ,Kinetics Ltd,SA3247              
+ATS001              ,"Ametek Thermal Systems, Inc.",SA3248              
+ATS001              ,"Ametek Thermal Systems, Inc.",SA3249              
+ATS001              ,"Ametek Thermal Systems, Inc.",SA3250              
+ESL001              ,Elbit Systems Ltd.,SA3251              
+EEO001              ,Elop Electro Optics,SA3253              
+ATS001              ,"Ametek Thermal Systems, Inc.",SA3255              
+ESL001              ,Elbit Systems Ltd.,SA3257              
+HAS001              ,Hamilton Sundstrand,SA3265              
+HAS001              ,Hamilton Sundstrand,SA3266              
+ESL001              ,Elbit Systems Ltd.,SA3270              
+ESL001              ,Elbit Systems Ltd.,SA3271              
+ESL001              ,Elbit Systems Ltd.,SA3272              
+WOM001              ,"Woodward, Inc.",SA3274              
+HAS001              ,Hamilton Sundstrand,SA3282              
+ESL001              ,Elbit Systems Ltd.,SA3283              
+HAS001              ,Hamilton Sundstrand,SA3289              
+HAS001              ,Hamilton Sundstrand,SA3290              
+CMS001              ,Cobham Mission Systems Div.,SA3294              
+ESL001              ,Elbit Systems Ltd.,SA3298              
+ESL001              ,Elbit Systems Ltd.,SA3312              
+ESL001              ,Elbit Systems Ltd.,SA3313              
+HAS001              ,Hamilton Sundstrand,SA3317              
+TEI003              ,Tec-cast Inc,SA3333              
+MTE001              ,Mark Two Engineering,SA3343              
+MMW001              ,"Morsch Machine Works, Inc.",SA3344              
+ALT001              ,Alliant Techsystems,SA3346              
+ALT001              ,Alliant Techsystems,SA3347              
+ESL001              ,Elbit Systems Ltd.,SA3355              
+AAI001              ,"Applied Aerodynamics, Inc",SA3356              
+ALT001              ,Alliant Techsystems,SA3357              
+OTT001              ,Otto,SA3361              
+CAP001              ,Calm Aluminum Pty. Ltd.,SA3362              
+ACI001              ,"Accudynamics, LLC",SA3366              
+ACI001              ,"Accudynamics, LLC",SA3367              
+ACI001              ,"Accudynamics, LLC",SA3368              
+ACI001              ,"Accudynamics, LLC",SA3369              
+ACI001              ,"Accudynamics, LLC",SA3370              
+ACI001              ,"Accudynamics, LLC",SA3371              
+ACI001              ,"Accudynamics, LLC",SA3372              
+KNA002              ,"G.S. Precision, Inc.",SA3373              
+KET001              ,Kennebec Technologies,SA3374              
+ACI001              ,"Accudynamics, LLC",SA3375              
+ACI001              ,"Accudynamics, LLC",SA3376              
+ACI001              ,"Accudynamics, LLC",SA3377              
+ACI001              ,"Accudynamics, LLC",SA3378              
+TAB001              ,Tampa Brass & Aluminum,SA3379              
+CMS001              ,Cobham Mission Systems Div.,SA3380              
+ESL001              ,Elbit Systems Ltd.,SA3381              
+EEO001              ,Elop Electro Optics,SA3382              
+ESL001              ,Elbit Systems Ltd.,SA3384              
+ALT001              ,Alliant Techsystems,SA3386              
+TAB001              ,Tampa Brass & Aluminum,SA3388              
+ATS001              ,"Ametek Thermal Systems, Inc.",SA3402              
+COX001              ,"Cox & Company, Inc.",SA3403              
+MTE001              ,Mark Two Engineering,SA3406              
+OTT001              ,Otto,SA3408              
+OTT001              ,Otto,SA3409              
+OTT001              ,Otto,SA3410              
+OTT001              ,Otto,SA3411              
+H002                ,H & S Swansons' Tool Company,SA3413              
+H002                ,H & S Swansons' Tool Company,SA3414              
+ASA001              ,Aselsan A.S.,SA3416              
+ESL001              ,Elbit Systems Ltd.,SA3419              
+ALM003              ,Alexander Machine & Tool Co.,SA3420              
+KET001              ,Kennebec Technologies,SA3444              
+TKI001              ,"Turbine Kinetics, Inc.",SA3459              
+FTG001              ,"Federal Technology Group, Inc.",SA3465              
+ATS001              ,"Ametek Thermal Systems, Inc.",SA3466              
+ATS001              ,"Ametek Thermal Systems, Inc.",SA3467              
+ATS001              ,"Ametek Thermal Systems, Inc.",SA3468              
+ATS001              ,"Ametek Thermal Systems, Inc.",SA3469              
+C1L001              ,Cabiran (1991) Ltd,SA3472              
+C1L001              ,Cabiran (1991) Ltd,SA3473              
+PTC001              ,Pine Tree Castings,SA3483              
+PEE001              ,"Pell Engineering & Mfg., Inc.",SA3486              
+PEE001              ,"Pell Engineering & Mfg., Inc.",SA3487              
+PEE001              ,"Pell Engineering & Mfg., Inc.",SA3488              
+TFS001              ,Textron Finance Shared Svc Ctr,SA3498              
+C1L001              ,Cabiran (1991) Ltd,SA3499              
+MMW001              ,"Morsch Machine Works, Inc.",SA3503              
+ESL001              ,Elbit Systems Ltd.,SA3504              
+ESL001              ,Elbit Systems Ltd.,SA3505              
+C1L001              ,Cabiran (1991) Ltd,SA3507              
+BEH001              ,Bell Helicopter,SA3516              
+BEH001              ,Bell Helicopter,SA3517              
+COX001              ,"Cox & Company, Inc.",SA3523              
+WOM001              ,"Woodward, Inc.",SA3530              
+WOM001              ,"Woodward, Inc.",SA3531              
+COX001              ,"Cox & Company, Inc.",SA3535              
+CMS001              ,Cobham Mission Systems Div.,SA3540              
+YIC001              ,York International Corporation,SA3547              
+TPE001              ,Turbotech Precision Eng,SA3551              
+TPE001              ,Turbotech Precision Eng,SA3551A             
+ATS001              ,"Ametek Thermal Systems, Inc.",SA3553              
+ATS001              ,"Ametek Thermal Systems, Inc.",SA3554              
+BEH001              ,Bell Helicopter,SA3556              
+H002                ,H & S Swansons' Tool Company,SA3568              
+COX001              ,"Cox & Company, Inc.",SA3569              
+YIC001              ,York International Corporation,SA3572              
+TFS001              ,Textron Finance Shared Svc Ctr,SA3573              
+ATS001              ,"Ametek Thermal Systems, Inc.",SA3577              
+ATS001              ,"Ametek Thermal Systems, Inc.",SA3578              
+ALM003              ,Alexander Machine & Tool Co.,SA3579              
+ALM003              ,Alexander Machine & Tool Co.,SA3580              
+TAI002              ,"Tps Aviation, Inc.",SA3591              
+TAI002              ,"Tps Aviation, Inc.",SA3592              
+TAI002              ,"Tps Aviation, Inc.",SA3593              
+TFS001              ,Textron Finance Shared Svc Ctr,SA3603              
+OTT001              ,Otto,SA3604              
+OTT001              ,Otto,SA3605              
+MAM003              ,Mackay Manufacturing,SA3606              
+KEG001              ,Kearfott Guidance & Navigation,SA3610              
+TFS001              ,Textron Finance Shared Svc Ctr,SA3619              
+ASA001              ,Aselsan A.S.,SA3633              
+ASA001              ,Aselsan A.S.,SA3634              
+ASA001              ,Aselsan A.S.,SA3635              
+ASA001              ,Aselsan A.S.,SA3636              
+ASA001              ,Aselsan A.S.,SA3637              
+ASA001              ,Aselsan A.S.,SA3638              
+ASA001              ,Aselsan A.S.,SA3639              
+ASA001              ,Aselsan A.S.,SA3640              
+ASA001              ,Aselsan A.S.,SA3641              
+OTT001              ,Otto,SA3642              
+OTT001              ,Otto,SA3643              
+HTI001              ,Hoppe Tool Inc.,SA3663              
+CMS001              ,Cobham Mission Systems Div.,SA3677              
+PTC001              ,Pine Tree Castings,SET-UPS             
+MCT001              ,Mct-metal Casting Technology,SHELLS              
+ALT001              ,Alliant Techsystems,SLA3357             
+TAB001              ,Tampa Brass & Aluminum,SLA3379             
+ALT001              ,Alliant Techsystems,SLA3383             
+ALT001              ,Alliant Techsystems,SLA3386             
+OTT001              ,Otto,SLA3390             
+OTT001              ,Otto,SLA3391             
+OTT001              ,Otto,SLA3392             
+OTT001              ,Otto,SLA3393             
+RPS001              ,"Rapid Product Solutions, Inc.",SLA3394             
+RPS001              ,"Rapid Product Solutions, Inc.",SLA3395             
+ALT001              ,Alliant Techsystems,SLA3401             
+COX001              ,"Cox & Company, Inc.",SLA3403             
+NMI001              ,"Nobles Manufacturing, Inc.",SLA3412             
+ASA001              ,Aselsan A.S.,SLA3416             
+TKI001              ,"Turbine Kinetics, Inc.",SLA3459             
+MTE001              ,Mark Two Engineering,SLA3463             
+MTE001              ,Mark Two Engineering,SLA3464             
+MTE001              ,Mark Two Engineering,SLA3475             
+MTE001              ,Mark Two Engineering,SLA3476             
+ALT001              ,Alliant Techsystems,SLA3477             
+ATS001              ,"Ametek Thermal Systems, Inc.",SLA3478             
+UOC001              ,University Of California,SLA3494             
+UOC001              ,University Of California,SLA3495             
+UOC001              ,University Of California,SLA3496             
+UOC001              ,University Of California,SLA3497             
+OTT001              ,Otto,SLA3508             
+OTT001              ,Otto,SLA3509             
+EEO001              ,Elop Electro Optics,SLA3511             
+EEO001              ,Elop Electro Optics,SLA3512             
+MTE001              ,Mark Two Engineering,SLA3518             
+WOM001              ,"Woodward, Inc.",SLA3530             
+WOM001              ,"Woodward, Inc.",SLA3531             
+RPS001              ,"Rapid Product Solutions, Inc.",SLA3538             
+RPS001              ,"Rapid Product Solutions, Inc.",SLA3539             
+YIC001              ,York International Corporation,SLA3541             
+MTE001              ,Mark Two Engineering,SLA3543             
+YIC001              ,York International Corporation,SLA3547             
+TPE001              ,Turbotech Precision Eng,SLA3551             
+TEI005              ,"Techni-products, Inc",SLA3552             
+MTE001              ,Mark Two Engineering,SLA3564             
+MTE001              ,Mark Two Engineering,SLA3565             
+EEO001              ,Elop Electro Optics,SLA3570             
+YIC001              ,York International Corporation,SLA3572             
+RPS001              ,"Rapid Product Solutions, Inc.",SLA3574             
+RPS001              ,"Rapid Product Solutions, Inc.",SLA3575             
+MTE001              ,Mark Two Engineering,SLA3576             
+OTT001              ,Otto,SLA3604             
+OTT001              ,Otto,SLA3605             
+MTE001              ,Mark Two Engineering,SLA3608             
+MTE001              ,Mark Two Engineering,SLA3612             
+MTE001              ,Mark Two Engineering,SLA3613             
+YIC001              ,York International Corporation,SLA3614             
+YIC001              ,York International Corporation,SLA3615             
+YIC001              ,York International Corporation,SLA3616             
+YIC001              ,York International Corporation,SLA3623             
+YIC001              ,York International Corporation,SLA3625             
+BAI001              ,Barber-nichols Inc.,SLA3626             
+PON001              ,"Pgm Of New England, LLC",SLA3627             
+PON001              ,"Pgm Of New England, LLC",SLA3628             
+MTE001              ,Mark Two Engineering,SLA3629             
+OTT001              ,Otto,SLA3642             
+OTT001              ,Otto,SLA3643             
+MTE001              ,Mark Two Engineering,SLA3654             
+ASA001              ,Aselsan A.S.,SLA3662             
+YIC001              ,York International Corporation,SLA3664             
+ELM001              ,Elmec,SLA3665             
+EEO001              ,Elop Electro Optics,SLA3667             
+MTE001              ,Mark Two Engineering,SLA3668             
+MTE001              ,Mark Two Engineering,SLA3669             
+ASA001              ,Aselsan A.S.,SLA3670             
+ASA001              ,Aselsan A.S.,SLA3678             
+MAE001              ,Marvin Engineering,S4977               
+MAE001              ,Marvin Engineering,S5113               
+UNI002              ,Universal Instruments,S9200               
+MDL001              ,Microwave Development Labs,TEST BAR            
+NUI001              ,"Nu-cast, Inc.",TEST BARS           
+ESL001              ,Elbit Systems Ltd.,TOOLING             
+PTC001              ,Pine Tree Castings,V014                
+PTC001              ,Pine Tree Castings,V017                
+CPM001              ,Costa Precision Mfg. Corp.,WELD                
+PTC001              ,Pine Tree Castings,W00200              
+PTC001              ,Pine Tree Castings,W00210              
+PTC001              ,Pine Tree Castings,W00300              
+ABI001              ,"Acu Bright, Inc.",XRAY                
+PTC001              ,Pine Tree Castings,XRN3                
+PTC001              ,Pine Tree Castings,Z020                
+UNI002              ,Universal Instruments,1
+KUL001              ,Kulicke & Soffa Industries,2
+ATS001              ,"Ametek Thermal Systems, Inc.",10
+ASI001              ,"Avionics Specialties, Inc.",24
+KOI001              ,Kollsman Instruments,30
+ATS001              ,"Ametek Thermal Systems, Inc.",31
+ATS001              ,"Ametek Thermal Systems, Inc.",32
+ATS001              ,"Ametek Thermal Systems, Inc.",41
+ATS001              ,"Ametek Thermal Systems, Inc.",51
+PAS001              ,Paslode,53
+JPC001              ,Jarvis Products Corporation,59
+OFC001              ,Ossur (formerly Century Xxii),006C                
+PAM001              ,Paragon Machine,68
+ATS001              ,"Ametek Thermal Systems, Inc.",81
+ATS001              ,"Ametek Thermal Systems, Inc.",101
+ATS001              ,"Ametek Thermal Systems, Inc.",102
+AFC001              ,American Fabricating Company,154
+KMI001              ,"Kolar Machine, Inc.",201
+PTC001              ,Pine Tree Castings,210
+BGF001              ,Barry Grant Fuel Systems,242
+DET001              ,Dentsply Trubyte,297
+DET001              ,Dentsply Trubyte,299
+UNI002              ,Universal Instruments,301
+OEL001              ,"Oeco, LLC",342
+DIG001              ,Dominion Import Group,394
+UNI002              ,Universal Instruments,401
+KMI001              ,"Kolar Machine, Inc.",402
+CAN001              ,Cannondale,403
+JPC001              ,Jarvis Products Corporation,422
+MIM001              ,Micro Machining,442
+QUI001              ,"Qual-tronics, Inc.",462
+PON001              ,"Pgm Of New England, LLC",05P1                
+UNI002              ,Universal Instruments,501
+ATS001              ,"Ametek Thermal Systems, Inc.",531
+ATS001              ,"Ametek Thermal Systems, Inc.",551
+PON001              ,"Pgm Of New England, LLC",06P1                
+DII001              ,"Fuji Film Dimatix, Inc.",600
+DII001              ,"Fuji Film Dimatix, Inc.",0600T               
+PTC001              ,Pine Tree Castings,601
+JEC001              ,J.C.M. Engineering Corp.,808
+GEI001              ,"Gec Engineering, Inc.",832
+DJI001              ,Dj Industries,839
+LIM001              ,Limco Manufacturing,877
+LIM001              ,Limco Manufacturing,878
+LIM001              ,Limco Manufacturing,879
+LIM001              ,Limco Manufacturing,917
+MAC001              ,Markem Corporation,974
+MAC001              ,Markem Corporation,975
+MAC001              ,Markem Corporation,977
+WOM001              ,"Woodward, Inc.",1002
+KUL001              ,Kulicke & Soffa Industries,1004
+MAC001              ,Markem Corporation,1006
+MII001              ,Michigan Instruments,1007
+KUL001              ,Kulicke & Soffa Industries,1009
+IMM001              ,Imc Magnetics,1050
+PTC001              ,Pine Tree Castings,1100
+HAC002              ,Harris Corporation,1101
+RII001              ,"Robomatix International, Inc.",1120
+EKC001              ,Eastman Kodak Company,1124
+EKC001              ,Eastman Kodak Company,1130
+EKC001              ,Eastman Kodak Company,1131
+HAC002              ,Harris Corporation,1182
+HAC002              ,Harris Corporation,1183
+HAC002              ,Harris Corporation,1185
+EKC001              ,Eastman Kodak Company,1186
+HAC002              ,Harris Corporation,1191
+HAC002              ,Harris Corporation,1196
+DSC001              ,Defense Supply Center,1200
+LES001              ,Levengood Supply,1201
+WNS001              ,Westinghouse Norden Systems,1208
+WNS001              ,Westinghouse Norden Systems,1209
+PTC001              ,Pine Tree Castings,1232
+OEL001              ,"Oeco, LLC",1234
+AIS001              ,Ail Systems,1298
+AIS001              ,Ail Systems,1303
+WNS001              ,Westinghouse Norden Systems,1306
+INS001              ,Intracom S.A.,1400I               
+PTC001              ,Pine Tree Castings,1403
+INS001              ,Intracom S.A.,1408I               
+INS001              ,Intracom S.A.,1425I               
+TOT001              ,Tool Technology,1452
+INS001              ,Intracom S.A.,1452I               
+TOT001              ,Tool Technology,1453
+HEW001              ,Hewlett-packard,1500
+ITA001              ,Itt Aerospace,1552
+UNI002              ,Universal Instruments,1601
+BED001              ,Bennett Die & Tool,1701
+PTC001              ,Pine Tree Castings,1744
+ADM001              ,Advance Manufacturing,1811
+MMW001              ,"Morsch Machine Works, Inc.",1814
+NOC001              ,Northrop Corporation,1823
+NOC001              ,Northrop Corporation,1830
+PTC001              ,Pine Tree Castings,1840
+PTC001              ,Pine Tree Castings,1906
+CAL001              ,Caspian Arms Ltd.,1911
+AST001              ,Asi Technolgies,1934
+AST001              ,Asi Technolgies,1947
+PGI001              ,"Precision Gage, Inc",195C                
+CDV001              ,Curtiss-wright Dba Vista Cntrl,1971
+CDV001              ,Curtiss-wright Dba Vista Cntrl,1982
+MSC002              ,Manufacturing Sciences Corp.,1990
+PTC001              ,Pine Tree Castings,1993
+PHC001              ,Parker Hannifin Corporation,2000
+PHC001              ,Parker Hannifin Corporation,2001
+PTC001              ,Pine Tree Castings,2016
+PTC001              ,Pine Tree Castings,2020
+PHC001              ,Parker Hannifin Corporation,2080
+PHC001              ,Parker Hannifin Corporation,2100
+PHC001              ,Parker Hannifin Corporation,2107
+ABD001              ,Abex Division,2109
+PHC001              ,Parker Hannifin Corporation,2110
+PHC001              ,Parker Hannifin Corporation,2130
+HAI001              ,"Harley-davidson, Inc.",2132
+PHC001              ,Parker Hannifin Corporation,2140
+PTC001              ,Pine Tree Castings,2155
+PHC001              ,Parker Hannifin Corporation,2160
+TGT001              ,The Goodyear Tire & Rubber Co.,2165
+PHC001              ,Parker Hannifin Corporation,2170
+NEC001              ,Noel-smyser Engineering Corp.,2231
+PTC001              ,Pine Tree Castings,2250
+JPC001              ,Jarvis Products Corporation,2261
+PTC001              ,Pine Tree Castings,2264
+JPC001              ,Jarvis Products Corporation,2281
+PTC001              ,Pine Tree Castings,2305
+ROI001              ,"Rockwell Collins, Inc.",2309
+JPC001              ,Jarvis Products Corporation,2328
+MAM001              ,Maine Machine,2357
+PTC001              ,Pine Tree Castings,2359
+MAM001              ,Maine Machine,2376
+MOM001              ,Modern Machine & Engineering,2390
+MAM001              ,Maine Machine,2403
+MAM001              ,Maine Machine,2410
+JPC001              ,Jarvis Products Corporation,2417
+JPC001              ,Jarvis Products Corporation,2419
+TRI001              ,"Trijicon, Inc.",2465
+TRI001              ,"Trijicon, Inc.",2467
+TRI001              ,"Trijicon, Inc.",2491
+PTC001              ,Pine Tree Castings,2513
+PTC001              ,Pine Tree Castings,2546
+PHC001              ,Parker Hannifin Corporation,2600
+PTC001              ,Pine Tree Castings,2603
+PTC001              ,Pine Tree Castings,2604
+TRI001              ,"Trijicon, Inc.",2608
+PTC001              ,Pine Tree Castings,2673
+PTC001              ,Pine Tree Castings,2674
+PTC001              ,Pine Tree Castings,2675
+PTC001              ,Pine Tree Castings,2706
+PHC001              ,Parker Hannifin Corporation,2730
+INS001              ,Intracom S.A.,2769I               
+INS001              ,Intracom S.A.,2770I               
+MEG001              ,Megapulse,2802
+PTC001              ,Pine Tree Castings,2849
+JLH001              ,"James L. Howard & Co., Inc.",2969
+DET001              ,Dentsply Trubyte,2974
+DET001              ,Dentsply Trubyte,2975
+DET001              ,Dentsply Trubyte,2997
+PHC001              ,Parker Hannifin Corporation,3000
+TRI001              ,"Trijicon, Inc.",3001
+CAN001              ,Cannondale,3020
+LIC001              ,Liebel-flarsheim Co.,3058
+LIC001              ,Liebel-flarsheim Co.,3059
+FTS001              ,"Firearms Training Systems, Inc",3076
+PHP001              ,Pneu Hydro Products,3078
+KUL001              ,Kulicke & Soffa Industries,3100
+PTC001              ,Pine Tree Castings,3107
+PTC001              ,Pine Tree Castings,3143
+PTC001              ,Pine Tree Castings,3154
+PTC001              ,Pine Tree Castings,3186
+CAL001              ,Caspian Arms Ltd.,3202
+LMG001              ,"Louis M. Gerson Co., Inc.",3214
+GOI001              ,"Gov't Of Israel, M.O.D.",3221
+EEO001              ,Elop Electro Optics,3231
+PTC001              ,Pine Tree Castings,3355
+PTC001              ,Pine Tree Castings,3387
+CAT001              ,Cardinal Tool,3415
+MIM001              ,Micro Machining,3437
+MMW001              ,"Morsch Machine Works, Inc.",3457
+MIM001              ,Micro Machining,3479
+PTC001              ,Pine Tree Castings,3482
+GOI001              ,"Gov't Of Israel, M.O.D.",3521
+GOI001              ,"Gov't Of Israel, M.O.D.",3541
+NOF001              ,Norell Foundry,355T6               
+EEO001              ,Elop Electro Optics,3551
+PTC001              ,Pine Tree Castings,3610
+PTC001              ,Pine Tree Castings,3612
+PTC001              ,Pine Tree Castings,3614
+WAM001              ,Wayne Metalcraft,36141
+CSI001              ,"Contact Systems, Inc.",3618
+ALM003              ,Alexander Machine & Tool Co.,3630
+PHC001              ,Parker Hannifin Corporation,3640
+PTC001              ,Pine Tree Castings,3648
+PTC001              ,Pine Tree Castings,3649
+TAB001              ,Tampa Brass & Aluminum,3671
+PTC001              ,Pine Tree Castings,3705
+PTC001              ,Pine Tree Castings,3707
+CBI001              ,"Cobe Bct, Inc.",3725
+EAC001              ,Essential Arms Company,3763
+PTC001              ,Pine Tree Castings,3778
+PTC001              ,Pine Tree Castings,3779
+PTC001              ,Pine Tree Castings,3780
+PTC001              ,Pine Tree Castings,3781
+PTC001              ,Pine Tree Castings,3782
+MAS001              ,Marconi Aerospace Systems-cni,3801
+PHP001              ,Pneu Hydro Products,3811
+PTC001              ,Pine Tree Castings,3900
+PTC001              ,Pine Tree Castings,3902
+GSS001              ,Gichner Shelter Systems,3915
+MMW001              ,"Morsch Machine Works, Inc.",3942
+CAL001              ,Caspian Arms Ltd.,3949
+MII001              ,Michigan Instruments,3979
+MII001              ,Michigan Instruments,3980
+GSS001              ,Gichner Shelter Systems,3999
+ATS001              ,"Ametek Thermal Systems, Inc.",4003
+ATS001              ,"Ametek Thermal Systems, Inc.",4004
+ATS001              ,"Ametek Thermal Systems, Inc.",4005
+ATS001              ,"Ametek Thermal Systems, Inc.",4006
+ATS001              ,"Ametek Thermal Systems, Inc.",4009
+ATS001              ,"Ametek Thermal Systems, Inc.",4010
+PHC001              ,Parker Hannifin Corporation,4100
+JPC001              ,Jarvis Products Corporation,4127
+JPC001              ,Jarvis Products Corporation,4154
+MEG001              ,Megapulse,4173
+MEG001              ,Megapulse,4174
+MEG001              ,Megapulse,4175
+I002                ,I & J Machine Tool Company,4190
+GSS001              ,Gichner Shelter Systems,4196
+PHC001              ,Parker Hannifin Corporation,4200
+JPC001              ,Jarvis Products Corporation,4211
+GSS001              ,Gichner Shelter Systems,4212
+KNA001              ,Knappco/civicon,4228
+HFS001              ,Howden Fluid Systems,4258
+PHC001              ,Parker Hannifin Corporation,4300
+UNI002              ,Universal Instruments,4401
+UNI002              ,Universal Instruments,4601
+DET001              ,Dentsply Trubyte,4621
+DET001              ,Dentsply Trubyte,4622
+ATS001              ,"Ametek Thermal Systems, Inc.",4800
+WMI001              ,"Will-mor Manufacturing, Inc.",4963
+MAE001              ,Marvin Engineering,4977
+GSI001              ,Genuity Solutions Inc.,5002
+ATS001              ,"Ametek Thermal Systems, Inc.",5003
+ATS001              ,"Ametek Thermal Systems, Inc.",5004
+ATS001              ,"Ametek Thermal Systems, Inc.",5005
+GSI001              ,Genuity Solutions Inc.,5101
+MAE001              ,Marvin Engineering,5113
+AIS001              ,Ail Systems,5128
+CMS001              ,Cobham Mission Systems Div.,5170
+ARA001              ,Arlington Automatics,5202
+MAE001              ,Marvin Engineering,5211
+MAE001              ,Marvin Engineering,5212
+LIT001              ,Linco Tool,5349
+GEM001              ,General Monitors,5361
+GSS001              ,Gichner Shelter Systems,5364
+AMA001              ,Arlington Machine And Tool,5403
+MAE001              ,Marvin Engineering,5411
+MAE001              ,Marvin Engineering,5412
+MCI001              ,Mcquay International,5415
+PSI001              ,"Precision Systems, Inc.",5610
+NOC001              ,Northrop Corporation,5646
+BED001              ,Bennett Die & Tool,5690
+GEM001              ,General Monitors,5721
+TES001              ,Tee Sign,5845
+TES001              ,Tee Sign,5846
+WIB001              ,Willey Brothers,5847
+EKC001              ,Eastman Kodak Company,5868
+EKC001              ,Eastman Kodak Company,5869
+COE001              ,Command Enterprises,5882
+PTC001              ,Pine Tree Castings,5902
+UNI002              ,Universal Instruments,5903
+CDS001              ,"Cubic Defense Systems, Inc.",5917
+EKC001              ,Eastman Kodak Company,5971
+PHC001              ,Parker Hannifin Corporation,6001
+WOM001              ,"Woodward, Inc.",6003
+PTC001              ,Pine Tree Castings,6004
+ATS001              ,"Ametek Thermal Systems, Inc.",6013
+ATS001              ,"Ametek Thermal Systems, Inc.",6014
+GRC001              ,Gripnail Corporation,6016
+PHC001              ,Parker Hannifin Corporation,6030
+PHC001              ,Parker Hannifin Corporation,6030M               
+BED001              ,Bennett Die & Tool,6040
+WIB001              ,Willey Brothers,6066
+CDS001              ,"Cubic Defense Systems, Inc.",6097
+UNI002              ,Universal Instruments,6101
+PSI001              ,"Precision Systems, Inc.",6105
+PSI001              ,"Precision Systems, Inc.",6107
+AMA001              ,Arlington Machine And Tool,6201
+MMW001              ,"Morsch Machine Works, Inc.",6221
+MMW001              ,"Morsch Machine Works, Inc.",6224
+JPC001              ,Jarvis Products Corporation,6389
+JPC001              ,Jarvis Products Corporation,6398
+JPC001              ,Jarvis Products Corporation,6399
+INS001              ,Intracom S.A.,6400I               
+JPC001              ,Jarvis Products Corporation,6403
+JPC001              ,Jarvis Products Corporation,6414
+JPC001              ,Jarvis Products Corporation,6427
+JPC001              ,Jarvis Products Corporation,643R                
+JPC001              ,Jarvis Products Corporation,6460
+JPC001              ,Jarvis Products Corporation,6461
+CMS001              ,Cobham Mission Systems Div.,6469
+JPC001              ,Jarvis Products Corporation,6471
+JPC001              ,Jarvis Products Corporation,6484
+JPC001              ,Jarvis Products Corporation,6499
+PTC001              ,Pine Tree Castings,6500
+PHC001              ,Parker Hannifin Corporation,6501
+UNI002              ,Universal Instruments,6600
+LEE001              ,"Lentros Engineering, Inc.",6638
+ABD001              ,Abex Division,6646
+FLM001              ,Fleck Machine,6651
+FLM001              ,Fleck Machine,6652
+BLU001              ,"Bright Lights Usa, Inc.",6677
+PSI001              ,"Precision Systems, Inc.",6701
+PSI001              ,"Precision Systems, Inc.",6702
+AIC001              ,Ainslie Corporation,6713
+CMS001              ,Cobham Mission Systems Div.,6825
+FTS001              ,"Firearms Training Systems, Inc",6842
+FTS001              ,"Firearms Training Systems, Inc",6843
+FOC001              ,Formac Corporation,6892
+UNI002              ,Universal Instruments,6901
+UNI002              ,Universal Instruments,6902
+AWC001              ,A.W. Chesterton,6954
+PHC001              ,Parker Hannifin Corporation,7001
+ATS001              ,"Ametek Thermal Systems, Inc.",7002
+ATS001              ,"Ametek Thermal Systems, Inc.",7003
+ATS001              ,"Ametek Thermal Systems, Inc.",7004
+NOM001              ,Northeast Manufacturing,7015
+JPC001              ,Jarvis Products Corporation,7020
+JPC002              ,"Jet Products Company, Inc.",7021
+DII001              ,"Fuji Film Dimatix, Inc.",7050
+PRF001              ,Precision Fabricators,7056
+PRF001              ,Precision Fabricators,7057
+ABD001              ,Abex Division,7080
+MMW001              ,"Morsch Machine Works, Inc.",7208
+VET001              ,Vickers Electromech,7219
+FOC001              ,Formac Corporation,7222
+PFP001              ,Painted Feather Precision,7251
+UNI002              ,Universal Instruments,7302
+K002                ,K & B Manufacturing,7370
+WIB001              ,Willey Brothers,7511
+WIB001              ,Willey Brothers,7512
+EKC001              ,Eastman Kodak Company,7586
+UNI002              ,Universal Instruments,7670
+UNI002              ,Universal Instruments,7690
+K002                ,K & B Manufacturing,7700
+PSI001              ,"Precision Systems, Inc.",7901
+LAE001              ,Lake Engineering,8001
+ATS001              ,"Ametek Thermal Systems, Inc.",8002
+ATS001              ,"Ametek Thermal Systems, Inc.",8003
+IDI001              ,"Ilc Dover, Inc.",8051
+CMS001              ,Cobham Mission Systems Div.,8071
+JPC001              ,Jarvis Products Corporation,8075
+PSI001              ,"Precision Systems, Inc.",8101
+BED001              ,Bennett Die & Tool,8201
+GRT001              ,Greenfeather Tool & Gage,8211
+BET001              ,Best Tool & Manufacturing Co.,8213
+GRT001              ,Greenfeather Tool & Gage,8231
+BET001              ,Best Tool & Manufacturing Co.,8233
+ITI001              ,"Itm, Inc.",8267
+ITI001              ,"Itm, Inc.",8269
+BED001              ,Bennett Die & Tool,8301
+BED001              ,Bennett Die & Tool,8302
+WAI001              ,"Waveline, Inc.",8341
+WAI001              ,"Waveline, Inc.",8342
+DJI001              ,Dj Industries,8375
+CMS001              ,Cobham Mission Systems Div.,8461
+UNI002              ,Universal Instruments,8501
+DJI001              ,Dj Industries,8509
+TAB001              ,Tampa Brass & Aluminum,8512
+LUI002              ,"Lupco, Inc.",8631
+LUI002              ,"Lupco, Inc.",8633
+LUI002              ,"Lupco, Inc.",8646
+LIM001              ,Limco Manufacturing,8651
+LIM001              ,Limco Manufacturing,8652
+LUI002              ,"Lupco, Inc.",8681
+K002                ,K & B Manufacturing,8700
+UNI002              ,Universal Instruments,8701
+CAT001              ,Cardinal Tool,8851
+GSS001              ,Gichner Shelter Systems,8949
+SOL001              ,"Scan Optics, Inc.",8976
+JPC001              ,Jarvis Products Corporation,9002
+JPC001              ,Jarvis Products Corporation,9003
+ATS001              ,"Ametek Thermal Systems, Inc.",9004
+ATS001              ,"Ametek Thermal Systems, Inc.",9005
+FTS001              ,"Firearms Training Systems, Inc",9141
+JPC001              ,Jarvis Products Corporation,9142
+JPC001              ,Jarvis Products Corporation,9145
+MAM001              ,Maine Machine,9150
+JPC001              ,Jarvis Products Corporation,9171
+JPC001              ,Jarvis Products Corporation,9195
+UNI002              ,Universal Instruments,9200
+JMC001              ,Jmt Machine Company,9203
+ONT001              ,Onodi Tool & Engineering Co.,9204
+INS001              ,Intracom S.A.,9247I               
+INS001              ,Intracom S.A.,9252I               
+UNI002              ,Universal Instruments,9401
+MAM001              ,Maine Machine,9410
+BED001              ,Bennett Die & Tool,9510
+BLU001              ,"Bright Lights Usa, Inc.",9520
+MIP001              ,Micro Precision,9749
+IDI001              ,"Ilc Dover, Inc.",9814
+SOL001              ,"Scan Optics, Inc.",9821
+SOL001              ,"Scan Optics, Inc.",9822
+MAM001              ,Maine Machine,9859
+UNI002              ,Universal Instruments,9901
+DMI001              ,"Donal Machine, Inc.",999999
+PHC001              ,Parker Hannifin Corporation,A3683               
+CPI001              ,Cfn Precision Inc.,A3609               
+MTE001              ,Mark Two Engineering,SLA3686             
+NUI001              ,"Nu-cast, Inc.",HEAT-TREAT          
+OTT001              ,Otto,A3643               
+OTT001              ,Otto,A3605               
+TAI002              ,"Tps Aviation, Inc.",SA3695              
+TAI002              ,"Tps Aviation, Inc.",A3695               
+ESL001              ,Elbit Systems Ltd.,A3504               
+IDC002              ,Instrument Development Corp.,SLA3697             
+BAI001              ,Barber-nichols Inc.,A3626               
+IDC002              ,Instrument Development Corp.,SLA3707             
+IDC002              ,Instrument Development Corp.,SLA3706             
+ATS001              ,"Ametek Thermal Systems, Inc.",SLA3704             
+IDC002              ,Instrument Development Corp.,SLA3698             
+IDC002              ,Instrument Development Corp.,SLA3705             
+OTT001              ,Otto,A3391               
+OTT001              ,Otto,SA3391              
+BAI001              ,Barber-nichols Inc.,SA3626              
+ASA001              ,Aselsan A.S.,SLA3636             
+PRG001              ,"Precision Grinding & Mfg, Inc.",SLA3713             
+PRG001              ,"Precision Grinding & Mfg, Inc.",SLA3714             
+PRG001              ,"Precision Grinding & Mfg, Inc.",SLA3715             
+LUI003              ,Locust Usa Dba Locust Power,SLA3716             
+OTT001              ,Otto,SLA3717             
+IDC002              ,Instrument Development Corp.,SLA3718             
+OTT001              ,Otto,A3719               
+OTT001              ,Otto,SA3719              
+IDC002              ,Instrument Development Corp.,SLA3721             
+WOM001              ,"Woodward, Inc.",SLA3722             
+ASA001              ,Aselsan A.S.,SLA3723             
+PTC001              ,Pine Tree Castings,WATERWASH           
+OTT001              ,Otto,SLA3726             
+WOM001              ,"Woodward, Inc.",A3722               
+WOM001              ,"Woodward, Inc.",SA3722              
+LUI003              ,Locust Usa Dba Locust Power,SLA3729             
+LUI003              ,Locust Usa Dba Locust Power,SLA3728             
+PON001              ,"Pgm Of New England, LLC",A3627               
+PON001              ,"Pgm Of New England, LLC",SA3627              
+OTT001              ,Otto,SLA3731             
+PON001              ,"Pgm Of New England, LLC",SA3732              
+RAC004              ,"Remington Arms, Co., Inc.",SLA3733             
+PTC001              ,Pine Tree Castings,SA3735              
+PTC001              ,Pine Tree Castings,SA3735F             
+PTC001              ,Pine Tree Castings,SA3735A             
+ASA001              ,Aselsan A.S.,SLA3736             
+BAI001              ,Barber-nichols Inc.,SLA3739             
+PON001              ,"Pgm Of New England, LLC",A3732               
+ASA001              ,Aselsan A.S.,SLA3740             
+BAI001              ,Barber-nichols Inc.,SLA3749             
+OTT001              ,Otto,SA3717              
+OTT001              ,Otto,A3717               
+COX001              ,"Cox & Company, Inc.",A3569               
+PON001              ,"Pgm Of New England, LLC",SA3628              
+FSI001              ,"Flir Systems, Inc.",SLA3752             
+SET001              ,Space Exploration Technologies,TEST ENG TRIAL      
+KET001              ,Kennebec Technologies,SA3754              
+KET001              ,Kennebec Technologies,A3754               
+PON001              ,"Pgm Of New England, LLC",A3628               
+ABT001              ,Amphenol Borisch Technologies,SLA3767             
+ABT001              ,Amphenol Borisch Technologies,SLA3768             
+ASA001              ,Aselsan A.S.,SLA3771             
+ASA001              ,Aselsan A.S.,SLA3777             
+ASA001              ,Aselsan A.S.,SLA3778             
+ASA001              ,Aselsan A.S.,SLA3779             
+ASA001              ,Aselsan A.S.,SLA3780             
+ASA001              ,Aselsan A.S.,SLA3781             
+COX001              ,"Cox & Company, Inc.",SA3782              
+COX001              ,"Cox & Company, Inc.",A3782               
+ASA001              ,Aselsan A.S.,SLA3772             
+ASA001              ,Aselsan A.S.,SLA3773             
+ASA001              ,Aselsan A.S.,SLA3774             
+ASA001              ,Aselsan A.S.,SLA3775             
+ASA001              ,Aselsan A.S.,SLA3776             
+ALM003              ,Alexander Machine & Tool Co.,A3179HP             
+IDC002              ,Instrument Development Corp.,SA3705              
+IDC002              ,Instrument Development Corp.,A3705               
+TAI002              ,"Tps Aviation, Inc.",A3591R              
+CAL001              ,Caspian Arms Ltd.,A3787               
+ASA001              ,Aselsan A.S.,SLA3788             
+ASA001              ,Aselsan A.S.,SLA3790             
+FII001              ,"Fibertek, Inc.",SLA3791             
+IDC002              ,Instrument Development Corp.,SLA3795             
+ENL001              ,Envera LLC,SLA3801             
+UNI003              ,Uni-cast - Test Bars Hp,A3804               
+PRG001              ,"Precision Grinding & Mfg, Inc.",SA3809              
+PRG001              ,"Precision Grinding & Mfg, Inc.",A3809               
+WOM001              ,"Woodward, Inc.",SA3063              
+FAC001              ,Fab-braze Corporation,2316A-2 FPI/XRY     
+FAC001              ,Fab-braze Corporation,2316A-5 FPI/XRY     
+FAC001              ,Fab-braze Corporation,2316A-7 FPI/XRY     
+FAC001              ,Fab-braze Corporation,2316A-9 FPI/XRY     
+FAC001              ,Fab-braze Corporation,FPI/X-RAY           
+WOM001              ,"Woodward, Inc.",SA3064              
+HBI001              ,"Hbm, Inc.",SLA3820             
+TAB001              ,Tampa Brass & Aluminum,SLA3830             
+TAB001              ,Tampa Brass & Aluminum,SA3830              
+TAB001              ,Tampa Brass & Aluminum,A3830               
+OTT001              ,Otto,SLA3831             
+OTT001              ,Otto,SLA3832             
+MAM003              ,Mackay Manufacturing,A3606A              
+ASA001              ,Aselsan A.S.,SLA3837             
+ASA001              ,Aselsan A.S.,SLA3838             
+MAM003              ,Mackay Manufacturing,SA3606A             
+NUI001              ,"Nu-cast, Inc.",NU1006-2            
+DMI001              ,"Donal Machine, Inc.",SA3056              
+FSI001              ,"Flir Systems, Inc.",SLA3851             
+OTT001              ,Otto,A3508               
+ABT001              ,Amphenol Borisch Technologies,SLA3855             
+PTC001              ,Pine Tree Castings,BOXES               
+ENL001              ,Envera LLC,SLA3859             
+FRC001              ,Fredon Corporation,SLA3864             
+COX001              ,"Cox & Company, Inc.",SLA3863             
+EEO001              ,Elop Electro Optics,SA3866              
+EEO001              ,Elop Electro Optics,SA3867              
+EEO001              ,Elop Electro Optics,A3866               
+EEO001              ,Elop Electro Optics,A3867               
+RPS001              ,"Rapid Product Solutions, Inc.",SLA3868             
+H002                ,H & S Swansons' Tool Company,SA3864              
+H002                ,H & S Swansons' Tool Company,A3864               
+OTT001              ,Otto,SLA3869             
+RPS001              ,"Rapid Product Solutions, Inc.",SLA3871             
+COX001              ,"Cox & Company, Inc.",SLA3874             
+COX001              ,"Cox & Company, Inc.",SLA3873             
+COX001              ,"Cox & Company, Inc.",SLA3877             
+COX001              ,"Cox & Company, Inc.",SLA3878             
+COX001              ,"Cox & Company, Inc.",SLA3879             
+FAC001              ,Fab-braze Corporation,FPI/X-RAY-2         
+FAC001              ,Fab-braze Corporation,801C/W FPI/XRY      
+FAC001              ,Fab-braze Corporation,802C/W FPI/XRY      
+FAC001              ,Fab-braze Corporation,334C/C M/B F/X      
+SET001              ,Space Exploration Technologies,SLA3889             
+CAL001              ,Caspian Arms Ltd.,SLA3891             
+CAL001              ,Caspian Arms Ltd.,SA3891              
+SII002              ,Sonju Industrial Inc.,SLA3893             
+OTT001              ,Otto,SA3390              
+OTT001              ,Otto,A3390               
+SET001              ,Space Exploration Technologies,SLA3898             
+SET001              ,Space Exploration Technologies,SLA3899             
+SET001              ,Space Exploration Technologies,SLA3900             
+ALM003              ,Alexander Machine & Tool Co.,SLA3901             
+SET001              ,Space Exploration Technologies,SLA3902             
+MAA001              ,Matrix Aerospace,A3452-FPI           
+IDC002              ,Instrument Development Corp.,SLA3905             
+CER001              ,Cera-met,C9401               
+CER001              ,Cera-met,C9521               
+SET001              ,Space Exploration Technologies,SLA3916             
+SET001              ,Space Exploration Technologies,SLA3917             
+NUI001              ,"Nu-cast, Inc.",A3920               
+PRG001              ,"Precision Grinding & Mfg, Inc.",SA3903              
+PRG001              ,"Precision Grinding & Mfg, Inc.",A3903               
+PRG001              ,"Precision Grinding & Mfg, Inc.",SA3904              
+PRG001              ,"Precision Grinding & Mfg, Inc.",A3904               
+SMS001              ,Secondo Mona,SA3921              
+SMS001              ,Secondo Mona,A3921               
+SSI001              ,"Sig Sauer, Inc.",SA3923              
+ESL001              ,Elbit Systems Ltd.,SA3926              
+ESL001              ,Elbit Systems Ltd.,A3926               
+NUI001              ,"Nu-cast, Inc.",A3927               
+NUI001              ,"Nu-cast, Inc.",A3928               
+NUI001              ,"Nu-cast, Inc.",A3929               
+ACI001              ,"Accudynamics, LLC",SLA3930             
+ALM003              ,Alexander Machine & Tool Co.,SA3901              
+ALM003              ,Alexander Machine & Tool Co.,A3901               
+SBG001              ,"Showa Best Glove, Inc.",A3934               
+SBG001              ,"Showa Best Glove, Inc.",A3935               
+SBG001              ,"Showa Best Glove, Inc.",A3936R              
+SBG001              ,"Showa Best Glove, Inc.",A3937L              
+SBG001              ,"Showa Best Glove, Inc.",A3937R              
+SBG001              ,"Showa Best Glove, Inc.",A3936L              
+DRS001              ,LEONARDO S.P.A.,SA3938              
+DRS001              ,LEONARDO S.P.A.,SA3939              
+DRS001              ,LEONARDO S.P.A.,A3938               
+DRS001              ,LEONARDO S.P.A.,A3939               
+NUI001              ,"Nu-cast, Inc.",A3940               
+PRG001              ,"Precision Grinding & Mfg, Inc.",SA3942              
+PRG001              ,"Precision Grinding & Mfg, Inc.",A3942               
+PIS002              ,Price Induction Sa,SLA3947             
+PMI001              ,"Paragon Manufacturing, Inc.",A3756-FPI           
+PMI001              ,"Paragon Manufacturing, Inc.",A3426-FPI           
+PMI001              ,"Paragon Manufacturing, Inc.",A3447-FPI           
+PIS002              ,Price Induction Sa,SLA3954             
+SET001              ,Space Exploration Technologies,A3916               
+NUI001              ,"Nu-cast, Inc.",A3957               
+WMI001              ,"Will-mor Manufacturing, Inc.",A3445-FPI           
+SBG001              ,"Showa Best Glove, Inc.",A3962L              
+SBG001              ,"Showa Best Glove, Inc.",A3963L              
+SBG001              ,"Showa Best Glove, Inc.",A3963R              
+PMI001              ,"Paragon Manufacturing, Inc.",A3451-FPI           
+SET001              ,Space Exploration Technologies,SA3916              
+BAI001              ,Barber-nichols Inc.,SLA3970             
+ATS001              ,"Ametek Thermal Systems, Inc.",SA3971              
+ATS001              ,"Ametek Thermal Systems, Inc.",A3971               
+ESL001              ,Elbit Systems Ltd.,SLA3972             
+SMS001              ,Secondo Mona,SA3980              
+SMS001              ,Secondo Mona,A3980               
+FAC001              ,Fab-braze Corporation,A3997               
+FAC001              ,Fab-braze Corporation,A3998               
+FAC001              ,Fab-braze Corporation,A3999               
+IDC002              ,Instrument Development Corp.,SA4008              
+IDC002              ,Instrument Development Corp.,A4008               
+LUI003              ,Locust Usa Dba Locust Power,SLA4010             
+BAI001              ,Barber-nichols Inc.,SLA4018             
+GII001              ,Garmin International Inc.,SLA4026             
+OTT001              ,Otto,SA3508              
+ACI001              ,"Accudynamics, LLC",SLA4027             
+ATS001              ,"Ametek Thermal Systems, Inc.",A4028               
+ATS001              ,"Ametek Thermal Systems, Inc.",SA4028              
+OTT001              ,Otto,SLA4036             
+LSC001              ,Linemaster Switch Corporation,SLA4039             
+CSS001              ,Corning Shared Services,SA4045              
+CSS001              ,Corning Shared Services,A4045               
+CSS001              ,Corning Shared Services,A4046               
+CSS001              ,Corning Shared Services,SA4046              
+SET001              ,Space Exploration Technologies,SA3902              
+SET001              ,Space Exploration Technologies,A3902               
+NUI001              ,"Nu-cast, Inc.",A4047               
+OTT001              ,Otto,SLA4049             
+LAW001              ,Laufer Wind,SLA4051             
+PRG001              ,"Precision Grinding & Mfg, Inc.",SA4052              
+PRG001              ,"Precision Grinding & Mfg, Inc.",A4052               
+WMI001              ,"Will-mor Manufacturing, Inc.",1409-FPI            
+BAI001              ,Barber-nichols Inc.,SA4056              
+BAI001              ,Barber-nichols Inc.,SLA4056             
+CER001              ,Cera-met,C9595               
+TPM001              ,"Trident Precision Mfg., Inc.",SA4064              
+TPM001              ,"Trident Precision Mfg., Inc.",A4064               
+TPM001              ,"Trident Precision Mfg., Inc.",SA4065              
+TPM001              ,"Trident Precision Mfg., Inc.",A4065               
+CER001              ,Cera-met,C4071               
+CER001              ,Cera-met,C4070               
+CER001              ,Cera-met,C4069               
+CER001              ,Cera-met,C4068               
+CER001              ,Cera-met,SA4068              
+CER001              ,Cera-met,SA4069              
+CER001              ,Cera-met,SA4070              
+OTT001              ,Otto,SLA4073             
+OTT001              ,Otto,SA4074              
+OTT001              ,Otto,SA4075              
+OTT001              ,Otto,SA4076              
+OTT001              ,Otto,SA4073              
+OTT001              ,Otto,A4073               
+OTT001              ,Otto,A4074               
+OTT001              ,Otto,A4075               
+OTT001              ,Otto,A4076               
+MGI002              ,"Marty Gilman, Inc.",A4077               
+MGI002              ,"Marty Gilman, Inc.",A4078               
+ROI001              ,"Rockwell Collins, Inc.",SA4081              
+WOM001              ,"Woodward, Inc.",SA4080              
+WOM001              ,"Woodward, Inc.",A4080               
+NOC001              ,Northrop Corporation,SA3870              
+NOC001              ,Northrop Corporation,A3870               
+NOC001              ,Northrop Corporation,SA4083              
+NOC001              ,Northrop Corporation,A4083               
+WOM001              ,"Woodward, Inc.",A4080M              
+WOM001              ,"Woodward, Inc.",SA4080M             
+SET001              ,Space Exploration Technologies,SA3917              
+ACI001              ,"Accudynamics, LLC",SA4027              
+ACI001              ,"Accudynamics, LLC",A4027               
+PHC001              ,Parker Hannifin Corporation,320
+ALM003              ,Alexander Machine & Tool Co.,SLA4084             
+ALM003              ,Alexander Machine & Tool Co.,SLA4085             
+ALM003              ,Alexander Machine & Tool Co.,SLA4086             
+NUI001              ,"Nu-cast, Inc.",A4090               
+PHC001              ,Parker Hannifin Corporation,SA4091              
+PHC001              ,Parker Hannifin Corporation,A4091               
+SET001              ,Space Exploration Technologies,A3917               
+NUI001              ,"Nu-cast, Inc.",A4092               
+OTT001              ,Otto,SLA4094             
+OTT001              ,Otto,SLA4093             
+WOM001              ,"Woodward, Inc.",SA4108              
+WOM001              ,"Woodward, Inc.",SA4109              
+WOM001              ,"Woodward, Inc.",A4108               
+WOM001              ,"Woodward, Inc.",A4109               
+WOM001              ,"Woodward, Inc.",SA4111              
+WOM001              ,"Woodward, Inc.",A4111               
+WOM001              ,"Woodward, Inc.",SA3018              
+PAS002              ,Partec S.R.L.,SLA4114             
+OTT001              ,Otto,SA4049              
+OTT001              ,Otto,A4049               
+BAI001              ,Barber-nichols Inc.,SLA4116             
+BAI001              ,Barber-nichols Inc.,SLA4118             
+BAI001              ,Barber-nichols Inc.,SLA4119             
+GII001              ,Garmin International Inc.,SLA4120             
+CET001              ,"Cascade Engineering Tech., Inc",SA4128              
+CET001              ,"Cascade Engineering Tech., Inc",A4128               
+SET001              ,Space Exploration Technologies,SA4131              
+SET001              ,Space Exploration Technologies,A4131               
+ADI001              ,"Adept, Inc.",SLA4129             
+SMM001              ,Sheet Metal Models Machine &,SA4143              
+SAI001              ,"Spirit Aerosystems, Inc.",SA4145              
+SAI001              ,"Spirit Aerosystems, Inc.",SA4145M             
+CET001              ,"Cascade Engineering Tech., Inc",SA4148              
+CET001              ,"Cascade Engineering Tech., Inc",A4148               
+ALM003              ,Alexander Machine & Tool Co.,SA4084              
+ALM003              ,Alexander Machine & Tool Co.,A4084               
+ALM003              ,Alexander Machine & Tool Co.,SA4085              
+ALM003              ,Alexander Machine & Tool Co.,A4085               
+ALM003              ,Alexander Machine & Tool Co.,SA4086              
+ALM003              ,Alexander Machine & Tool Co.,A4086               
+BAI001              ,Barber-nichols Inc.,SLA4160             
+ALL001              ,"Acent Laboratories, LLC",SLA4169             
+CET001              ,"Cascade Engineering Tech., Inc",SA4170              
+CET001              ,"Cascade Engineering Tech., Inc",A4170               
+CET001              ,"Cascade Engineering Tech., Inc",SA4171              
+PMI001              ,"Paragon Manufacturing, Inc.",A3446-FPI           
+BAI001              ,Barber-nichols Inc.,SLA4175             
+SMS001              ,Secondo Mona,SA4176              
+SMS001              ,Secondo Mona,SLA4176             
+GTI001              ,"Gridsmart Technologies, Inc.",SA4179              
+WOM001              ,"Woodward, Inc.",SA4182              
+WOM001              ,"Woodward, Inc.",A4182               
+LUI003              ,Locust Usa Dba Locust Power,SLA4183             
+LUI003              ,Locust Usa Dba Locust Power,SLA4184             
+LUI003              ,Locust Usa Dba Locust Power,SLA4185             
+CET001              ,"Cascade Engineering Tech., Inc",A4171               
+SET001              ,Space Exploration Technologies,SLA4187             
+OTT001              ,Otto,SA3097              
+ALL001              ,"Acent Laboratories, LLC",SLA4189             
+SMS001              ,Secondo Mona,A4176               
+HAC003              ,Honda Aircraft Company,SLA4191             
+HAC003              ,Honda Aircraft Company,SA4192E             
+HAC003              ,Honda Aircraft Company,SA4192F             
+HAC003              ,Honda Aircraft Company,SA4193F             
+HAC003              ,Honda Aircraft Company,SA4193E             
+CET001              ,"Cascade Engineering Tech., Inc",A4199               
+CET001              ,"Cascade Engineering Tech., Inc",SA4199              
+R003                ,R & R Cycles Inc.,SA4200              
+GTI001              ,"Gridsmart Technologies, Inc.",A4179               
+NEC003              ,Neurologica Corp.,SLA4203             
+Q0L001              ,"Q, LLC",SA4204              
+Q0L001              ,"Q, LLC",SA4205              
+Q0L001              ,"Q, LLC",SA4206              
+RAC004              ,"Remington Arms, Co., Inc.",SLA4216             
+RAC004              ,"Remington Arms, Co., Inc.",SLA4215             
+LSC001              ,Linemaster Switch Corporation,SLA4218             
+LSC001              ,Linemaster Switch Corporation,SLA4217             
+WOM001              ,"Woodward, Inc.",SA4222              
+WOM001              ,"Woodward, Inc.",A4222               
+WII001              ,Williams International,SLA4226             
+GII001              ,Garmin International Inc.,SA4026              
+GII001              ,Garmin International Inc.,A4026               
+CET001              ,"Cascade Engineering Tech., Inc",A4231               
+CET001              ,"Cascade Engineering Tech., Inc",SA4231              
+NEC003              ,Neurologica Corp.,SLA4230             
+R003                ,R & R Cycles Inc.,SA4238              
+CER001              ,Cera-met,SLA4240             
+JCN001              ,Johnson Controls Navy Systems,SLA4244             
+JCN001              ,Johnson Controls Navy Systems,PATTERNS            
+BAI001              ,Barber-nichols Inc.,SLA4255             
+RAC004              ,"Remington Arms, Co., Inc.",SLA4253             
+RAC004              ,"Remington Arms, Co., Inc.",SLA4254             
+LMC001              ,Lockheed Martin,SA4271              
+LMC001              ,Lockheed Martin,A4271               
+LMC001              ,Lockheed Martin,SA4272              
+LMC001              ,Lockheed Martin,A4272               
+LUI003              ,Locust Usa Dba Locust Power,SLA4281             
+PAS002              ,Partec S.R.L.,SLA4280             
+PMI001              ,"Paragon Manufacturing, Inc.",A3448-FPI           
+DRS001              ,LEONARDO S.P.A.,SLA4277             
+RAC004              ,"Remington Arms, Co., Inc.",SA4254              
+RAC004              ,"Remington Arms, Co., Inc.",A4254               
+RAC004              ,"Remington Arms, Co., Inc.",SA4253              
+RAC004              ,"Remington Arms, Co., Inc.",A4253               
+BAI001              ,Barber-nichols Inc.,SLA4283             
+WMI001              ,"Will-mor Manufacturing, Inc.",A3449-FPI           
+WMI001              ,"Will-mor Manufacturing, Inc.",A3450-FPI           
+BAI001              ,Barber-nichols Inc.,SLA4298             
+BAI001              ,Barber-nichols Inc.,SLA4304             
+BAI001              ,Barber-nichols Inc.,SLA4303             
+BAI001              ,Barber-nichols Inc.,SLA4305             
+WII001              ,Williams International,SA4226              
+WII001              ,Williams International,A4226               
